@@ -1,0 +1,60 @@
+<!-- Blogs -->
+    <section id="blogs" class="pt-120 pb-70" data-bg-img="assets/images/blogs/bg.png">
+        <div class="container">
+            <!-- Section Title -->
+            <div class="bizagn--section-title">
+                <p>Blogs</p>
+                <h2>See Our Creative <br> Blogs</h2>
+            </div>
+            <!-- End of Section Title -->
+
+            <div class="row bizagn--blog-section">
+                <!-- Blog Item -->
+                <div class="col-md-6">
+                    <div class="bizagn--blog-item">
+                        <a href="#" class="bizagn--post-thumb">
+                            <img src="assets/images/blogs/blog-2.JPG" alt="" class="img-fluid">
+                        </a>
+                        <div class="bizagn--blog-info">
+                            <h3> <a href="#"> UMKM Going Global #2 </a></h3>
+                            <p>BELADU CREATIVE HUB dan Divisi UMKM BANK BJB dan disupport juga oleh GEKRAFS JABAR menghadirkan, Program Jumat Berbagi untuk berbagi ilmu dan pengalaman seputar dunia ENTERPRENEUR, khususnya untuk para pelaku usaha UMKM dan kaum milenial.</p>
+                            <div class="bizagn--blog-meta">
+                                <ul class="list-inline">
+                                    <li>By <a href="#">Beladu.crehub</a></li>
+                                    <li><a href="#">16 Sep 2022</a></li>
+                                    <li><a href="#">Jum'at Berbagi</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End of Blog Item -->
+
+                <!-- Blog Item -->
+                <div class="col-md-6">
+                    <div class="bizagn--blog-item">
+                        <a href="#" class="bizagn--post-thumb">
+                            <img src="assets/images/blogs/blog-1.JPG" alt="" class="img-fluid">
+                        </a>
+                        <div class="bizagn--blog-info">
+                            <h3><a href="#">5 Bisnis & Marketing yang Sukses</a></h3>
+                            <p>Pemasaran adalah aktivitas dan proses menciptakan, mengomunikasikan, menyampaikan, dan mempertukarkan tawaran yang bernilai bagi pelanggan, klien, mitra, dan masyarakat umum. Pemasaran dimulai dengan pemenuhan kebutuhan manusia yang kemudian bertumbuh menjadi keinginan manusia itu sendiri loh...</p>
+                            <div class="bizagn--blog-meta">
+                                <ul class="list-inline">
+                                    <li>By <a href="#">Beladu</a></li>
+                                    <li><a href="#">12 July 2022</a></li>
+                                    <li><a href="#">Business & Marketing</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End of Blog Item -->
+
+                <!-- Read More Button -->
+                <a href="#" class="bizagn--rm-btn">All Blog <i class="fa fa-angle-right"></i></a>
+                <!-- End of Read More Button -->
+            </div>
+        </div>
+    </section>
+    <!-- End of Blogs -->
